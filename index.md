@@ -274,6 +274,12 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h3 id="original-lesson">Original Lesson</h3>
+
+<p>
+This workshop covers the first half of the lesson [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). A follow-up workshop on February 21–22 will complete this lesson.
+</p>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
