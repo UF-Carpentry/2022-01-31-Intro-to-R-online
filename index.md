@@ -274,10 +274,23 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h3 id="registration">Registration</h3>
+
+<p>
+A link to the registration form will be posted Wednesday.
+</p>
+
+<p>
+We request a nominal $5 fee to attend this workshop.
+We realize that this may pose a financial barrier to some attendees.
+In that case, please register anyway, and also email an organizer before the first day of the workshop to confirm that you will be in attendance.
+</p>
+
 <h3 id="original-lesson">Original Lesson</h3>
 
 <p>
 This workshop covers the first half of the lesson [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). A follow-up workshop on February 21–22 will complete this lesson.
+Your fee from this workshop will count toward the follow-up workshop.
 </p>
 
 {% comment%}
