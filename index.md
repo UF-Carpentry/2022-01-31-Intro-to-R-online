@@ -277,13 +277,11 @@ Edit the text to match who can attend the workshop. For instance:
 <h3 id="registration">Registration</h3>
 
 <p>
-A link to the registration form will be posted Wednesday.
+Space is limited to 45 participants and registration is required. Please plan on attending the entire time both days. This workshop will be free, however registration requires attendance for most of the workshop.
 </p>
 
 <p>
-We request a nominal $5 fee to attend this workshop.
-We realize that this may pose a financial barrier to some attendees.
-In that case, please register anyway, and also email an organizer before the first day of the workshop to confirm that you will be in attendance.
+A link to the registration form will be posted Wednesday.
 </p>
 
 <h3 id="original-lesson">Original Lesson</h3>
