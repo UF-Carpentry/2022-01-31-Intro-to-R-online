@@ -280,9 +280,9 @@ Edit the text to match who can attend the workshop. For instance:
 Space is limited to 45 participants and registration is required. Please plan on attending the entire time both days. This workshop will be free, however registration requires attendance for most of the workshop.
 </p>
 
-<p>
-A link to the registration form will be posted Wednesday.
-</p>
+<p><strong>
+<a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-introduction-to-r-workshop-2/">Register here for the workshop!</a>
+</strong></p>
 
 <h3 id="original-lesson">Original Lesson</h3>
 
