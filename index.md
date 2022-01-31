@@ -15,7 +15,7 @@ startdate: 2022-01-31      # machine-readable start date for the workshop in YYY
 enddate: 2022-02-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Audrey Smith", "Renata Diaz", "Amy Kendig", "Caitlin Campbell"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Amanda Markee", "Leandra Merz", "Sarah Steele Cabrera", "Amobichukwu Amanambu", "Narayani Barve", "Jason Cory Brunson"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["Cory (cornelioid@gmail.com)","Narayani (narayani.ku@gmail.com)"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["cornelioid@gmail.com","narayani.ku@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
